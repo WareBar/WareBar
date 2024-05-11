@@ -3,8 +3,10 @@
 </p>
 <h3 align="center">An IT student aspiring to be a software developer</h3>
 <p align="center">
-  <img width=400 src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding" />
+  <img width=400 align="right" src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" alt="Coding" />
 </p>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warebar&label=Profile%20views&color=0e75b6&style=flat" alt="warebar" /> </p>
 
