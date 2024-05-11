@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warebar&label=Profile%20views&color=0e75b6&style=flat" alt="warebar" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React, Django**
 
 - 📫 How to reach me **barryadam615@gmail.com**
 
