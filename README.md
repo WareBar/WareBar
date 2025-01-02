@@ -19,16 +19,16 @@ I'm currently learning ReactJS
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=WareBar&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=WareBar&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=WareBar&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=WareBar&theme=one_dark_pro&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WareBar&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WareBar&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=WareBar&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=WareBar&theme=one_dark_pro&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=one_dark_pro)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=WareBar&icon=2&color=0)](https://visitcount.itsvg.in)
