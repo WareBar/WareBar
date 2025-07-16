@@ -1,11 +1,16 @@
-# 💫 About Me:
-I'm currently learning ReactJS
+<div align="center">
 
+**Currently learning ReactJS**
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/raedus.lafivad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@barrydam_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shadowbarr) 
+# ABDUL BARRY A. ADAM
+#### Information Technology Major
+![](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
 
-# 💻 Tech Stack:
+---
+[![](https://visitor-badge.laobi.icu/badge?page_id=WareBar&icon=2&color=0)](https://visitcount.itsvg.in)
+
+## 🛠️ Tech Stacks
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -17,21 +22,23 @@ I'm currently learning ReactJS
 
 
 
-
-
-# 📊 GitHub Stats:
+# 📈 Git Performance
 ![](https://github-readme-stats.vercel.app/api?username=WareBar&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WareBar&theme=one_dark_pro&hide_border=false)<br/>
+
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WareBar&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=WareBar&theme=one_dark_pro&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=one_dark_pro)
 
----
-[![](https://visitcount.itsvg.in/api?id=WareBar&icon=2&color=0)](https://visitcount.itsvg.in)
+
+</div>
+
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
