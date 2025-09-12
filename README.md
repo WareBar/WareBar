@@ -1,6 +1,7 @@
 <div align="center">
 
 **Currently learning ReactJS**
+**Currently doing my capstone system**
 
 # ABDUL BARRY A. ADAM
 #### Information Technology Major
