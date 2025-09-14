@@ -2,7 +2,7 @@
 
 **Currently learning ReactJS**
 **Currently doing my capstone system**
-**most of my works is private cuz im shy**
+
 
 # ABDUL BARRY A. ADAM
 #### Information Technology Major
