@@ -1,7 +1,6 @@
 <div align="center">
 
-**Currently learning ReactJS**
-**Currently doing my capstone system**
+**Currently Improving**
 
 
 # ABDUL BARRY A. ADAM
