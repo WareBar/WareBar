@@ -32,6 +32,10 @@
 # Coding Activity
 ![](https://wakatime.com/share/@WareBar/112bf09a-2c66-489d-81bf-b481866ed238.svg)
 
+
+![GitHub contribution graph](https://github-readme-insight-terminal-asci.vercel.app/svg?user=WareBar&theme=ubuntu)
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WareBar&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
