@@ -6,7 +6,7 @@
 # ABDUL BARRY A. ADAM
 <h2>FullStack Web Developer <br/>Specializing in backend development</h2>
 
-![](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
+
 
 ---
 [![](https://visitor-badge.laobi.icu/badge?page_id=WareBar&icon=2&color=0)](https://visitcount.itsvg.in)
@@ -25,7 +25,8 @@
 
 
 # 📈 Git Performance
-![](https://github-readme-stats.vercel.app/api?username=WareBar&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://ghstats.dev/api/card?username=WareBar) 
+<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WareBar&theme=one_dark_pro&hide_border=false)<br/>
 
 [Wakatime Profile](https://wakatime.com/@WareBar)
@@ -40,7 +41,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=WareBar&theme=one_dark_pro&no-frame=true&no-bg=false&margin-w=4)
-
+[![trophy](https://trophy.ryglcloud.net/?username=WareBar&theme=radical&column=8)](https://github.com/ryo-ma/github-profile-trophy)  
 
 
 </div>
